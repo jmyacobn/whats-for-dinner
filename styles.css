@@ -41,6 +41,7 @@ h2 {
 
 span {
   color: red;
+  vertical-align: super;
 }
 
 .main-boxes {
